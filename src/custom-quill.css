@@ -1,0 +1,18 @@
+.ql-editor {
+    height: 100%;
+    border: none;
+  }
+.ql-toolbar.ql-snow {
+    border: none;
+    padding: none;
+    border-top: 1px solid lightgray;
+    border-bottom: 2px solid lightgrey;
+}
+
+.ql-container.ql-snow {
+    border: none;
+}
+#body.quill  {
+    margin-left: 0px;
+    margin-right: 0px;
+}
